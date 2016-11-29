@@ -2,7 +2,7 @@
 Basic Operative System in C
 
 **************************************************************************
-			                (c) Intersched Corporation
+		       (c) Intersched Corporation
 **************************************************************************
 
 Solo compiladores compatibles con las distribuciones basadas en Debian.
